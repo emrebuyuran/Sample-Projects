@@ -1,0 +1,10 @@
+E:\source\repos\BaseArithmetic\BaseArithmetic\obj\Debug\BaseArithmetic.csprojAssemblyReference.cache
+E:\source\repos\BaseArithmetic\BaseArithmetic\obj\Debug\BaseArithmetic.MainForm.resources
+E:\source\repos\BaseArithmetic\BaseArithmetic\obj\Debug\BaseArithmetic.Properties.Resources.resources
+E:\source\repos\BaseArithmetic\BaseArithmetic\obj\Debug\BaseArithmetic.csproj.GenerateResource.cache
+E:\source\repos\BaseArithmetic\BaseArithmetic\obj\Debug\BaseArithmetic.csproj.CoreCompileInputs.cache
+E:\source\repos\BaseArithmetic\BaseArithmetic\bin\Debug\BaseArithmetic.exe.config
+E:\source\repos\BaseArithmetic\BaseArithmetic\bin\Debug\BaseArithmetic.exe
+E:\source\repos\BaseArithmetic\BaseArithmetic\bin\Debug\BaseArithmetic.pdb
+E:\source\repos\BaseArithmetic\BaseArithmetic\obj\Debug\BaseArithmetic.exe
+E:\source\repos\BaseArithmetic\BaseArithmetic\obj\Debug\BaseArithmetic.pdb
